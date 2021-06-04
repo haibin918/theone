@@ -83,15 +83,7 @@ dubbo:
 
 domain:
   rpc:
-    mallStockGatewayService: http://192.168.250.54:9900
-    skuService: http://192.168.250.76:9005
-    commodityCenterService: http://192.168.250.76:9004
-    goodsService: http://192.168.250.89:8890
-    adminECPService: http://192.168.253.103:9129
-    approvalService: http://192.168.201.143:8907
-    smsService: http://192.168.248.182:1212
-    gisService: http://192.168.254.23:8080
-    productService: http://192.168.252.30:8888
+
 
 scheduler:
   server:
